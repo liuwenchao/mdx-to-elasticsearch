@@ -4,7 +4,8 @@
 1. make sure ES is up at http://localhost:9200
 2. run this:
 ```
-./main.sh youfile.mdx
+cd process
+python ../process.py input=.
 ```
 
 ## How to test

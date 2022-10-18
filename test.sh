@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# 1. make sure test/2.mdx exists
+# 1. make sure test.mdx exists
 ./main.sh test.mdx
